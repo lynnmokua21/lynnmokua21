@@ -1,4 +1,4 @@
-👋 Hi, I’m @lynnmokua21! A curious tech enthusiast who loves learning, solving problems and turning ideas into practical solutions.
+👋 Hi, I’m lynn! A curious tech enthusiast who loves learning, solving problems and turning ideas into practical solutions.
 
  👀 I’m interested in software development, database management, health technology, cybersecurity and building systems that make everyday work easier.
 🌱 I’m currently learning the Frappe Framework, Python, web development, Git and software engineering. Always exploring something new!
